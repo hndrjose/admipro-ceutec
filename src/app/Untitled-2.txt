@@ -1,0 +1,245 @@
+{
+	"knownSymbols": {
+		"AppPage": [
+			{
+				"name": "AppPage",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\e2e\\app.po.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"browser": [
+			{
+				"name": "browser",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"by": [
+			{
+				"name": "by",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"element": [
+			{
+				"name": "element",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"enableProdMode": [
+			{
+				"name": "enableProdMode",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"platformBrowserDynamic": [
+			{
+				"name": "platformBrowserDynamic",
+				"module": "@angular/platform-browser-dynamic",
+				"isDefault": false
+			}
+		],
+		"getTestBed": [
+			{
+				"name": "getTestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"TestBed": [
+			{
+				"name": "TestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"async": [
+			{
+				"name": "async",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"AppComponent": [
+			{
+				"name": "AppComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\app.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Component": [
+			{
+				"name": "Component",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"BrowserModule": [
+			{
+				"name": "BrowserModule",
+				"module": "@angular/platform-browser",
+				"isDefault": false
+			}
+		],
+		"NgModule": [
+			{
+				"name": "NgModule",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"RouterModule": [
+			{
+				"name": "RouterModule",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"Routes": [
+			{
+				"name": "Routes",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"environment": [
+			{
+				"name": "environment",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\environments\\environment.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"LoginComponent": [
+			{
+				"name": "LoginComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\login\\login.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"OnInit": [
+			{
+				"name": "OnInit",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"PagesComponent": [
+			{
+				"name": "PagesComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\pages\\pages.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"SharedService": [
+			{
+				"name": "SharedService",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\service\\shared.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Injectable": [
+			{
+				"name": "Injectable",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"SidebardService": [
+			{
+				"name": "SidebardService",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\service\\sidebard.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"DashboardComponent": [
+			{
+				"name": "DashboardComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\pages\\dashboard\\dashboard.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Graficas1Component": [
+			{
+				"name": "Graficas1Component",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\pages\\graficas1\\graficas1.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"BreadcrumbsComponent": [
+			{
+				"name": "BreadcrumbsComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\shared\\breadcrumbs\\breadcrumbs.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"NopagefoundComponent": [
+			{
+				"name": "NopagefoundComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\shared\\nopagefound\\nopagefound.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"ProgressComponent": [
+			{
+				"name": "ProgressComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\pages\\progress\\progress.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"SidebardComponent": [
+			{
+				"name": "SidebardComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\shared\\sidebard\\sidebard.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"HeaderComponent": [
+			{
+				"name": "HeaderComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\shared\\header\\header.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AppModule": [
+			{
+				"name": "AppModule",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\app.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"RegisterComponent": [
+			{
+				"name": "RegisterComponent",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\login\\register.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"APP_ROUTES": [
+			{
+				"name": "APP_ROUTES",
+				"path": "c:\\Users\\Sony\\Desktop\\AngularAvd\\admipro\\src\\app\\app.routes.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		]
+	}
+}
