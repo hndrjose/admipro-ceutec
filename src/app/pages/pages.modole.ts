@@ -10,6 +10,7 @@ import { PAGES_ROUTES } from './pages.router';
 import { FormsModule } from '@angular/forms';
 import { IncrementadorComponent } from '../components/incrementador/incrementador.component';
 import { GraficoDonaComponent } from '../components/grafico-dona/grafico-dona.component';
+import { PromesasComponent } from '../pages/promesas/promesas.component';
 
 
 // Ng2-Chart
@@ -25,7 +26,8 @@ import { AccountSettingComponent } from './account-setting/account-setting.compo
         ProgressComponent,
         IncrementadorComponent,
         GraficoDonaComponent,
-        AccountSettingComponent
+        AccountSettingComponent,
+        PromesasComponent
     ],
     exports: [
         PagesComponent,
