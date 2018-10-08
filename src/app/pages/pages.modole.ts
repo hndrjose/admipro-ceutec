@@ -11,11 +11,13 @@ import { FormsModule } from '@angular/forms';
 import { IncrementadorComponent } from '../components/incrementador/incrementador.component';
 import { GraficoDonaComponent } from '../components/grafico-dona/grafico-dona.component';
 import { PromesasComponent } from '../pages/promesas/promesas.component';
+import { AccountSettingComponent } from './account-setting/account-setting.component';
+import { RxjsComponent } from './rxjs/rxjs.component';
 
 
 // Ng2-Chart
 import { ChartsModule } from 'ng2-charts';
-import { AccountSettingComponent } from './account-setting/account-setting.component';
+
 
 
 @NgModule({
@@ -27,7 +29,8 @@ import { AccountSettingComponent } from './account-setting/account-setting.compo
         IncrementadorComponent,
         GraficoDonaComponent,
         AccountSettingComponent,
-        PromesasComponent
+        PromesasComponent,
+        RxjsComponent
     ],
     exports: [
         PagesComponent,

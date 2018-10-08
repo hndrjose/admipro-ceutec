@@ -10,7 +10,8 @@ menu: any = [
        {titulo: 'Dashboard', url: '/dashboard'},
        {titulo: 'ProgressBar', url: '/progress'},
        {titulo: 'Graficas1', url: '/graficas1'},
-       {titulo: 'Promesas', url: '/promesas'}
+       {titulo: 'Promesas', url: '/promesas'},
+       {titulo: 'Rxjs', url: '/rxjs'}
        ]
   }
 ];

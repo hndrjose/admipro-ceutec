@@ -8,6 +8,7 @@ import { Graficas1Component } from './graficas1/graficas1.component';
 import { GraficoDonaComponent } from '../components/grafico-dona/grafico-dona.component';
 import { AccountSettingComponent } from './account-setting/account-setting.component';
 import { PromesasComponent } from './promesas/promesas.component';
+import { RxjsComponent } from './rxjs/rxjs.component';
 
 
 
@@ -16,12 +17,12 @@ const pagesRouter: Routes = [
         path: '',
         component: PagesComponent,
         children: [
-            { path: 'dashboard', component: DashboardComponent },
-            { path: 'progress', component: ProgressComponent },
-            { path: 'graficas1', component: Graficas1Component },
-            { path: 'promesas', component: PromesasComponent  },
-            { path: 'graficodona', component: GraficoDonaComponent },
-            { path: 'accountsetting', component: AccountSettingComponent },
+            { path: 'dashboard', component: DashboardComponent, data: { titulo: 'Dashboard' }},
+            { path: 'progress', component: ProgressComponent, data: { titulo: 'Progress' } },
+            { path: 'graficas1', component: Graficas1Component, data: { titulo: 'Graficas' }},
+            { path: 'promesas', component: PromesasComponent, data: { titulo: 'Promesas' } },
+            { path: 'accountsetting', component: AccountSettingComponent, data: { titulo: 'Setting' }},
+            { path: 'rxjs', component: RxjsComponent, data: { titulo: 'RXJS' }},
             { path: '', redirectTo: '/dashboard', pathMatch: 'full'}
         ]
     },
