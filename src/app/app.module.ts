@@ -8,7 +8,7 @@ import { APP_ROUTES } from './app.routes';
 
 // Modulos
 import { PagesModule } from './pages/pages.modole';
-import { FormsModule } from '../../node_modules/@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '../../node_modules/@angular/forms';
 
 // servicios
 import { ServiceModule } from './service/service.module';
@@ -32,6 +32,8 @@ import { RegisterComponent } from './login/register.component';
     APP_ROUTES,
     PagesModule,
     FormsModule,
+    // conecta los objeto del formulario con los componentes del html
+    ReactiveFormsModule,
     ServiceModule
   ],
   providers: [],
